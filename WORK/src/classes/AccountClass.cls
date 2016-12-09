@@ -1,6 +1,6 @@
 public class AccountClass {
 //fast forward check
-//merge conflict demo1
+//merge conflict demo1 bnnbn
   List<Opportunity> accounts= new List<Opportunity>();
 
     public AccountClass(ApexPages.StandardController controller) {
